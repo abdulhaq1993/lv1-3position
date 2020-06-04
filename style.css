@@ -1,0 +1,146 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background: rgb(15, 13, 13);
+}
+head{
+    position: relative;
+    width: 5vh;
+    color: rgb(114, 114, 91);
+    margin: 0;
+
+}
+a{
+    text-decoration: none;
+    color: #c3d8d8;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
+a:hover{
+    color: cornsilk;
+}
+nav :nth-of-type(1){
+    position: absolute;
+    top: 2mm;
+    left: 3%;
+    font-size: 20px;
+}
+nav :nth-of-type(2){
+    position: absolute;
+    top: 2mm;
+    left: 10%;
+    font-size: 20px;
+}
+nav :nth-of-type(3){
+    position: absolute;
+    top: 2mm;
+    left: 45%;
+    font-size: 20px;
+}
+nav :nth-of-type(4){
+    position: absolute;
+    top: 2mm;
+    left: 55%;
+    font-size: 20px;
+}
+nav :nth-of-type(5){
+    position: absolute;
+    top: 2mm;
+    left: 73%;
+    font-size: 20px;
+}
+nav :nth-of-type(6){
+    position: absolute;
+    top: 2mm;
+    left: 85%;
+    font-size: 20px;
+}
+h1{
+    color:#9d9f9f ;
+    width: 20%;
+}
+h1{
+   color: #5a5e5e; 
+   margin: 0;
+    width: 20%;
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    font-family:'Roboto', sans-serif;
+
+}
+section a{
+    color: #df9453;
+    text-decoration: none;
+    text-transform: capitalize;
+    position: absolute;
+    font-size: 17px;
+    top: 70%;
+    left: 15%;
+}
+img{
+    width: 20%;
+    height: 80%;
+    object-fit: cover;
+    position: absolute;
+    
+}
+img:nth-of-type(1){
+    top: 10%;
+    right: 45%;
+}
+img:nth-of-type(2){
+    top: 10%;
+    right: 22%;
+}
+img:nth-of-type(3){
+    top: 10%;
+    right: 0;
+}
+footer{
+    position: relative;
+    margin: 0;
+    text-transform: capitalize;
+
+}
+footer a:nth-of-type(1){
+   position: absolute;
+    font-size: 2em;
+    top: 20.3cm;
+    left: 2cm;
+}
+footer a:hover{
+    color:darkblue;
+    font-style: oblique;
+}
+
+footer a:nth-of-type(2){
+    position: absolute;
+     font-size: 2em;
+     top: 20.3cm;
+     left: 4cm;
+}
+footer a:nth-of-type(3){
+    position: absolute;
+     font-size: 2em;
+     top: 20.3cm;
+     left: 6cm;
+}
+footer a:nth-of-type(4){
+
+    position: absolute;
+     font-size: 2em;
+     top: 20.3cm;
+     right: 8cm;
+     
+}
+footer a:nth-of-type(5){
+    position: absolute;
+     font-size: 2em;
+     top: 20.3cm;
+     right: 5cm;
+}
